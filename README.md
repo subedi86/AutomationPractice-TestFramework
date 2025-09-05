@@ -18,7 +18,6 @@ Proof that I am the creator:
 - 
 - [E-commerce Product Page](https://lifeintestcases.com/product/agile-methodologies-infographic/) – users can add this to cart and checkout  
 
-This ensures that both the **application** and the **automation framework** are built and maintained by me.  
 
 ---
 
